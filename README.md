@@ -6,7 +6,7 @@ Driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver). Allows you
 to access secrets stored in a virtual secret manager as files mounted in Kubernetes pods.
 Use it to learn and explore the CSI secret interface, and test good practices for reading secrets from pods.
 
-Can be used on dev clusters, NOT SAFE for production, NOT SAFE to protect your secrets.
+Can be used on dev clusters, **NOT SAFE** for production, **NOT SAFE** to protect your secrets.
 
 
 ## Install
