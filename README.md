@@ -1,4 +1,4 @@
-# Secrets-store-csi-driver-provider-dev
+# Secrets-store-csi-driver-provider-local
 
 
 A developer provider for the [Secret Store CSI
