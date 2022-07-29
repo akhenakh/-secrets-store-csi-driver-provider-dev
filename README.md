@@ -22,10 +22,10 @@ helm install csi-secrets-store secrets-store-csi-driver/secrets-store-csi-driver
 
 ## TODO
 
-[ ] UI
-[ ] from JSON
-[ ] from memory
-[ ] from configmap
-[ ] sync secrets to kubernetes
-[ ] rotation
-[ ] metrics
+- [ ] UI
+- [ ] from JSON
+- [ ] from memory
+- [ ] from configmap
+- [ ] sync secrets to kubernetes
+- [ ] rotation
+- [ ] metrics
